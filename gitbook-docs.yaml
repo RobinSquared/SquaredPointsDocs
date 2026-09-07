@@ -20,7 +20,8 @@ site:
     - type: section
       key: section-2
       title: Help Center
-      path: help-center
+      path: help
+      description: ""
       icon: comment-question
       children:
         - type: space
