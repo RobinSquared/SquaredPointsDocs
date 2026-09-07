@@ -5,6 +5,7 @@
 ## Guides
 
 * [Getting your User ID](guides/getting-your-user-id.md)
+* [Getting help](guides/getting-help.md)
 
 ## Community
 

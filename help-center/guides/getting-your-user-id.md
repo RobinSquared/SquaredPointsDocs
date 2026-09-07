@@ -1,21 +1,41 @@
+---
+description: Find the identifier needed for account-specific support requests.
+---
+
 # Getting your User ID
 
-### How to get your User ID?
+## Find your User ID
 
-You can get your User ID by
+Use your profile URL to find your User ID.
 
-* Going to your [user dashboard](https://squaaredpoints.freesrv.com/dashboard)
-* Clicking the "View Public Profile" button
-* Then, in the URL field, copy every character after `https://squaredpoints.freesrv.com/profiles/`
+{% stepper %}
+{% step %}
+### Open your dashboard
 
-Example:
+Go to your [user dashboard](https://squaaredpoints.freesrv.com/dashboard).
+{% endstep %}
 
-If your profile URL is `https://squaredpoints.freesrv.com/profiles/ABC123` your ID is `ABC123`&#x20;
+{% step %}
+### View your public profile
 
+Select **View Public Profile**.
+{% endstep %}
 
+{% step %}
+### Copy the ID from the URL
 
-This method will still work even if your profile is private, it will however show a "profile not found" error if your profile is private.
+Copy everything after `https://squaredpoints.freesrv.com/profiles/`.
 
-### Why may you need to get your User ID?
+For example, the ID in `https://squaredpoints.freesrv.com/profiles/ABC123` is `ABC123`.
+{% endstep %}
+{% endstepper %}
 
-Sometimes during support requests, a member of our support team may ask you to provide your User ID. This allows us to manually edit parts of your account, give/remove SP, and in some cases, remove integration methods.
+{% hint style="info" %}
+Private profiles can show a “profile not found” message. Your User ID is still in the URL.
+{% endhint %}
+
+### When to share your User ID
+
+Share it only when a support team member requests it. It helps them locate your account.
+
+Your User ID is not a password. Never share passwords, access tokens, or recovery codes.

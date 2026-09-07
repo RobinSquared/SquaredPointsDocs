@@ -1,4 +1,5 @@
 ---
+description: Find guides, community support, and product resources.
 icon: life-ring
 layout:
   width: wide
@@ -15,19 +16,21 @@ layout:
   metadata:
     visible: false
   tags:
-    visible: true
+    visible: false
   actions:
     visible: true
 ---
 
 # Help Center
 
-<h2 align="center">What can we help you find?</h2>
+## Help Center
 
-<p align="center">Browse the topics below or use the GitBook Assistant to ask anything you need help with.</p>
+Find account help, community support, and project resources.
 
-<p align="center"><button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">How can we help?</button><a href="https://gitbook.com/" class="button secondary" data-icon="paper-plane">Contact support</a></p>
+<table data-view="cards"><thead><tr><th>Topic</th><th data-card-target data-type="content-ref">Open</th></tr></thead><tbody><tr><td>Find your User ID</td><td><a href="guides/getting-your-user-id.md">getting-your-user-id.md</a></td></tr><tr><td>Prepare a support request</td><td><a href="guides/getting-help.md">getting-help.md</a></td></tr><tr><td>Get help from the community</td><td><a href="https://app.gitbook.com/s/PaIroOKpHRxdPacNypX5/community">Community</a></td></tr></tbody></table>
 
-&#x20;
+### Need help?
 
-&#x20;
+Join the [Discord community](https://discord.gg/robinsquared) for support and discussion.
+
+Include your User ID when a team member requests it. Never share passwords or access tokens.
