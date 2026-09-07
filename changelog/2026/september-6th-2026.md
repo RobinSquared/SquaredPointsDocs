@@ -17,7 +17,7 @@ See what’s new and improved in our latest update.
 ### Added boosters
 
 {% hint style="warning" %}
-Boosters are not active on the website at this stage.
+At the time of writing, boosters are not purchasable.
 {% endhint %}
 
 * Timed system boosters: staff activates a platform/source-specific boost for a time window.

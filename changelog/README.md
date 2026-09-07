@@ -39,7 +39,7 @@ You can view it here: [Privacy Policy](https://squaredpoints.freesrv.com/privacy
 ### Added boosters
 
 {% hint style="warning" %}
-Boosters are not active on the website at this stage.
+At the time of writing, boosters are not purchasable.
 {% endhint %}
 
 * Timed system boosters: staff activates a platform/source-specific boost for a time window.
