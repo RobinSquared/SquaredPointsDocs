@@ -7,7 +7,6 @@ site:
       title: Home
       path: home
       icon: house-chimney-user
-      default: true
       children:
         - type: space
           key: space-1
@@ -27,6 +26,7 @@ site:
           title: Help Center
           path: help-center
           default: true
+          hidden: true
           content:
             directory: ./help-center
     - type: section
@@ -34,6 +34,7 @@ site:
       title: Changelog
       path: changelog
       icon: rotate
+      default: true
       children:
         - type: space
           key: space-3
