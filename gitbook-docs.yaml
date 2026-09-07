@@ -1,0 +1,18 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Squared Points
+  structure:
+    - type: section
+      key: section-1
+      title: Home
+      path: home
+      icon: house-chimney-user
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Landing Page
+          path: landing-page
+          default: true
+          content:
+            directory: ./home/landing-page
