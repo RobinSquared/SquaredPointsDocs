@@ -16,3 +16,16 @@ site:
           default: true
           content:
             directory: ./home/landing-page
+    - type: section
+      key: section-2
+      title: Docs
+      path: docs
+      icon: file-lines
+      children:
+        - type: space
+          key: space-2
+          title: Product Docs
+          path: product-docs
+          default: true
+          content:
+            directory: ./docs/product-docs
