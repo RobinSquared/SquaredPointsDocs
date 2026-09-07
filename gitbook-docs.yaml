@@ -28,7 +28,6 @@ site:
           title: Help Center
           path: help-center
           default: true
-          hidden: true
           content:
             directory: ./help-center
     - type: section
