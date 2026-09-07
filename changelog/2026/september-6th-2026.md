@@ -7,28 +7,38 @@ tags:
 
 # September 6th 2026
 
-See what’s new and improved in our latest update.
+This release adds a privacy policy and introduces boosters.
 
 ### Privacy Policy
 
-* We added an actual privacy policy to the website.
-* This will be expanded in the future.
+A privacy policy is now available on the website. Its coverage will expand over time.
 
-### Added boosters
+Read the [privacy policy](https://squaredpoints.freesrv.com/privacy).
+
+### Boosters
 
 {% hint style="warning" %}
-At the time of writing, boosters are not purchasable.
+Boosters are not yet available for purchase.
 {% endhint %}
 
-* Timed system boosters: staff activates a platform/source-specific boost for a time window.
-* Personal consumable boosters: viewers buy/earn a booster, activate it, and receive a temporary source-specific percentage bonus.
-* Community boosters: a redemption or staff action activates a shared boost for everyone.
+Boosters apply a temporary percentage bonus to a specific platform or source.
+
+#### Timed boosters
+
+Staff can activate these boosters for a defined period.
+
+#### Personal boosters
+
+Viewers can earn or buy these consumable boosters. Activating one grants a temporary bonus.
+
+#### Community boosters
+
+A redemption or staff action activates these boosters for everyone.
 
 <details>
 
 <summary>Fixes</summary>
 
-* Fixed issues with the theming being inconsistent
-  * Some areas of the site may still use an inconsistent theme.
+Theming is now more consistent across the site. Some areas may still vary.
 
 </details>
