@@ -29,3 +29,16 @@ site:
           default: true
           content:
             directory: ./help-center
+    - type: section
+      key: section-3
+      title: Changelog
+      path: changelog
+      icon: rotate
+      children:
+        - type: space
+          key: space-3
+          title: Changelog
+          path: changelog
+          default: true
+          content:
+            directory: ./changelog
