@@ -18,14 +18,14 @@ site:
             directory: ./home/landing-page
     - type: section
       key: section-2
-      title: Docs
-      path: docs
-      icon: file-lines
+      title: Help Center
+      path: help-center
+      icon: comment-question
       children:
         - type: space
           key: space-2
-          title: Product Docs
-          path: product-docs
+          title: Help Center
+          path: help-center
           default: true
           content:
-            directory: ./docs/product-docs
+            directory: ./help-center
