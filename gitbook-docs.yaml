@@ -8,13 +8,13 @@ site:
       path: home
       description: ""
       icon: house-chimney-user
+      default: true
       children:
         - type: space
           key: space-1
           title: Landing Page
           path: landing-page
           default: true
-          hidden: true
           content:
             directory: ./home/landing-page
     - type: section
@@ -35,7 +35,6 @@ site:
       title: Changelog
       path: changelog
       icon: rotate
-      default: true
       children:
         - type: space
           key: space-3
