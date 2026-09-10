@@ -24,6 +24,26 @@ layout:
 # Changelog
 
 {% updates format="numeric" %}
+{% update date="2026-09-10" tags="improvement,feature" %}
+## September 10th 2026
+
+This release adds new rewards, tier benefits, Discord updates, and safer recovery tools.
+
+### Boosters and rewards
+
+Boosters now support eligible base-SP bonuses up to **10×**. New seasonal and connected-account rewards are available through **Your account → Reward claims**.
+
+### Tier benefits and profiles
+
+Tiers now include earning bonuses, selected-store discounts, and higher chat and voice allowances. You can also choose tier frames and featured achievements.
+
+### Seasons, Discord and safety
+
+Seasons now support scheduled starts and future end-date changes. Discord gains richer announcements and controlled role notifications. Maintenance and backup recovery now provide clearer safeguards.
+
+<a href="2026/more-perks-bigger-boosts-and-better-discord-updates.md" class="button secondary">Full Patch Notes</a>
+{% endupdate %}
+
 {% update date="2026-09-06" tags="improvement,feature,fix" %}
 ## September 6th 2026
 
