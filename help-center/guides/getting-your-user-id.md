@@ -12,7 +12,7 @@ Use your profile URL to find your User ID.
 {% step %}
 ### Open your dashboard
 
-Go to your [user dashboard](https://squaaredpoints.freesrv.com/dashboard).
+Go to your [user dashboard](https://points.robinsquared.live/dashboard).
 {% endstep %}
 
 {% step %}
@@ -24,9 +24,9 @@ Select **View Public Profile**.
 {% step %}
 ### Copy the ID from the URL
 
-Copy everything after `https://squaredpoints.freesrv.com/profiles/`.
+Copy everything after `https://points.robinsquared.live/profiles/`.
 
-For example, the ID in `https://squaredpoints.freesrv.com/profiles/ABC123` is `ABC123`.
+For example, the ID in `https://points.robinsquared.live/profiles/ABC123` is `ABC123`.
 {% endstep %}
 {% endstepper %}
 
